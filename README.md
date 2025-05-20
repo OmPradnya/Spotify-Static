@@ -11,7 +11,7 @@ Front-end Clone of Spotify. Built to practice and strengthen CSS layout, styling
 ```bash
 git clone https://github.com/OmPradnya/Spotify-Static
 cd Spotify-Static
-run index.js
+run/open index.html in browser
 ```
 
 ---
